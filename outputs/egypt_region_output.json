@@ -1,0 +1,170 @@
+[
+    {
+      "product_name": "Iphone 15 pro",
+      "price": 754.98,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:7510914988555950637",
+      "source": "Mazeed",
+      "delivery": "Delivery Info is not Available",
+      "reviews": "No reviews found for this Product",
+      "ratings": "No ratings found for this Product",
+      "similarity": 1,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'Iphone 15 pro' exactly."
+      }
+    },
+    {
+      "product_name": "iPhone 15 Pro",
+      "price": 3383.5,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:18103466174807041932",
+      "source": "Soum",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 1,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'iPhone 15 Pro' exactly."
+      }
+    },
+    {
+      "product_name": "Apple iPhone 15 Pro",
+      "price": 3079.49,
+      "link": "https://www.google.com/shopping/product/14488341155008483327?gl=sa",
+      "source": "Revibe",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.9821504354476929,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product 'Apple iPhone 15 Pro' matches the user's search query 'Iphone 15 pro' closely, with a high similarity score and no discrepancies in the product name."
+      }
+    },
+    {
+      "product_name": "ايفون 15 برو | Apple - iPhone 15 Pro",
+      "price": 4038.99,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:4401785410461247465",
+      "source": "كـلاد CLAD - اسوار رنيم",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.9100276827812195,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing for 'ايفون 15 برو | Apple - iPhone 15 Pro' matches the user's search query for 'Iphone 15 pro' as it refers to the same model of the iPhone."
+      }
+    },
+    {
+      "product_name": "iPhone 15 Pro - Good, White Titanium, 128 GB",
+      "price": 3584.49,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:6902340530920711471",
+      "source": "Dealt Trading - Electronics Store",
+      "delivery": "Delivery Info is not Available",
+      "reviews": "No reviews found for this Product",
+      "ratings": "No ratings found for this Product",
+      "similarity": 0.9092249274253845,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'iPhone 15 Pro' in terms of model and specifications."
+      }
+    },
+    {
+      "product_name": "ابل آيفون 15 برو 256 - Apple iPhone 15 Pro 256",
+      "price": 4543.99,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:7948991335611572177",
+      "source": "mahally",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.9057988524436951,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing for 'ابل آيفون 15 برو 256 - Apple iPhone 15 Pro 256' matches the user's search query for 'Iphone 15 pro' as it refers to the same model and specifications."
+      }
+    },
+    {
+      "product_name": "IPHONE 15 PRO 512GB WHITE",
+      "price": 5553.99,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:8672981224816263284",
+      "source": "متجر حكاية سحاب",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.9055485725402832,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product 'IPHONE 15 PRO 512GB WHITE' matches the user's search query 'Iphone 15 pro' as it is the same model (iPhone 15 Pro) and does not include any conflicting details."
+      }
+    },
+    {
+      "product_name": "ابل آيفون 15 برو 128 - Apple iPhone 15 Pro 128",
+      "price": 4038.99,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:3552413857487548315",
+      "source": "mahally",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.9050646424293518,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing for 'ابل آيفون 15 برو 128 - Apple iPhone 15 Pro 128' matches the user's search query for 'Iphone 15 pro' as it refers to the same model and specifications."
+      }
+    },
+    {
+      "product_name": "ابل آيفون 15 برو 1 تيرا - Apple iPhone 15 Pro 1T",
+      "price": 5351.99,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:200978757169811514",
+      "source": "حدود التواصل",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.9021353125572205,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product 'ابل آيفون 15 برو 1 تيرا - Apple iPhone 15 Pro 1T' matches the user's search query 'Iphone 15 pro' as it refers to the same model, the iPhone 15 Pro, and includes the relevant details."
+      }
+    },
+    {
+      "product_name": "Apple iPhone 15 Pro - Black Titanium / Good / 2-SIM / 256 GB",
+      "price": 3160.29,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:4803050436674610313",
+      "source": "Jumnah",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.9000051617622375,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product matches the user's search query for 'iPhone 15 Pro' as it is the correct model and includes the specified details such as being a Pro version with 256 GB storage."
+      }
+    },
+    {
+      "product_name": "Apple iPhone 15 Pro - Blue Titanium / Good / 2-SIM / 256 GB",
+      "price": 3160.29,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:1527311503546160550",
+      "source": "Jumnah",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.8973883390426636,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'iPhone 15 Pro' as it specifies the exact model, including the 'Pro' designation, and the details provided align with the user's intent."
+      }
+    },
+    {
+      "product_name": "جوال ايفون 15 برو مستعمل Used Apple Iphone 15 Pro 256GB",
+      "price": 3334.01,
+      "link": "https://www.google.com/shopping/product/1?gl=sa&prds=pid:15923591943613181354",
+      "source": "Jomla.ae",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.5,
+      "similarity": 0.8875346779823303,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'Iphone 15 pro' as it specifically mentions 'Used Apple Iphone 15 Pro' which aligns with the user's intent."
+      }
+    }
+  ]

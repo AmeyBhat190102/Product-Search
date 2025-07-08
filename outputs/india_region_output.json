@@ -1,0 +1,114 @@
+[
+  {
+    "product_name": "Apple iPhone 15 Pro",
+    "price": 899,
+    "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10977611933658762682",
+    "source": "Visible",
+    "delivery": "Get it by Thu (Free)",
+    "reviews": 13000,
+    "ratings": 4.5,
+    "similarity": 0.9821505546569824,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product listing for 'Apple iPhone 15 Pro' exactly matches the user's search query 'Iphone 15 pro', with no discrepancies in the product name."
+    }
+  },
+  {
+    "product_name": "Apple iPhone 15 Pro Smartphone",
+    "price": 679.99,
+    "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4021333758563731733",
+    "source": "eBay - kisselectronicsinc",
+    "delivery": "Get it by Jul 14 (Free)",
+    "reviews": 13000,
+    "ratings": 4.5,
+    "similarity": 0.9583927989006042,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product listing for the Apple iPhone 15 Pro Smartphone matches the user's search query for 'Iphone 15 pro' in terms of the exact model and specifications."
+    }
+  },
+  {
+    "product_name": "Restored Apple iPhone 15 Pro",
+    "price": 899.99,
+    "link": "https://www.google.com/shopping/product/9131163024309553366?gl=us",
+    "source": "T-Mobile for Business",
+    "delivery": "Delivery Info is not Available",
+    "reviews": 13000,
+    "ratings": 4.5,
+    "similarity": 0.9080809950828552,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product 'Restored Apple iPhone 15 Pro' matches the user's search query for 'iPhone 15 Pro' as it is the same model and version."
+    }
+  },
+  {
+    "product_name": "Apple Iphone 15 Pro - 128 Gb - Black (unlocked)",
+    "price": 3500,
+    "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:13860907396922001443",
+    "source": "eBay",
+    "delivery": "Get it by Jul 17 (Free)",
+    "reviews": "No reviews found for this Product",
+    "ratings": "No ratings found for this Product",
+    "similarity": 0.9077182412147522,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product listing matches the user's search query for 'Iphone 15 pro' as it is specifically the 'Apple Iphone 15 Pro' model."
+    }
+  },
+  {
+    "product_name": "iPhone 15 Pro Certified Used",
+    "price": 484,
+    "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6988800616595548017",
+    "source": "UpTrade",
+    "delivery": "Get it by Jul 18 (Free)",
+    "reviews": 13000,
+    "ratings": 4.5,
+    "similarity": 0.907041072845459,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product 'iPhone 15 Pro Certified Used' matches the user's search query 'iPhone 15 Pro' as it is the same model and version."
+    }
+  },
+  {
+    "product_name": "iPhone 15 Pro 128GB Unlocked Black Titanium",
+    "price": 694.99,
+    "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:14002550058633330035",
+    "source": "Gazelle Store",
+    "delivery": "Free delivery",
+    "reviews": 13000,
+    "ratings": 4.5,
+    "similarity": 0.9029707312583923,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product matches the user's search query for 'iPhone 15 Pro' as it is the same model with the specified storage capacity and is unlocked."
+    }
+  },
+  {
+    "product_name": "Apple Iphone 15 Pro - 256 Gb - Black Titanium (unlocked)",
+    "price": 975,
+    "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:3757134400994349447",
+    "source": "eBay",
+    "delivery": "Delivery Info is not Available",
+    "reviews": 13000,
+    "ratings": 4.5,
+    "similarity": 0.9025261402130127,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product listing matches the user's search query for 'Iphone 15 pro' as it is specifically the 'Apple Iphone 15 Pro' model, which is the exact product the user is looking for."
+    }
+  },
+  {
+    "product_name": "iPhone 15 Pro 1000GB Blue Titanium Unlocked",
+    "price": 823,
+    "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:4583480774028270615",
+    "source": "Back Market",
+    "delivery": "Delivery Info is not Available",
+    "reviews": 13000,
+    "ratings": 4.5,
+    "similarity": 0.8995820879936218,
+    "llm_response": {
+      "is_valid_product": true,
+      "reason": "The product 'iPhone 15 Pro 1000GB Blue Titanium Unlocked' matches the user's search query 'iPhone 15 Pro' as it is the correct model and version, despite the additional details regarding storage and color."
+    }
+  }
+]
