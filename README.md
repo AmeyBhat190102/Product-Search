@@ -24,6 +24,20 @@ A generic, country-aware product price comparison API built using **FastAPI** an
 
 ---
 
+## Demo Video Links - Includes Different regions based queries
+
+- Demo Video 1
+```
+https://drive.google.com/file/d/1kKVqqTWAlAPXhzucI98uaoo7GEzY4kdh/view?usp=sharing
+```
+
+- Demo Video 2
+```
+https://drive.google.com/file/d/17mtqdo7d0ZH9Ay0iIDjiVL8ogpSBAOcW/view?usp=sharing
+```
+
+---
+
 ## 🧾 Steps to set this up locally
 
 - Clone the github repo 
@@ -46,11 +60,18 @@ A generic, country-aware product price comparison API built using **FastAPI** an
 - After running the Server
     ```
     Go to the /docs endpoint and enter your queries to the API
-    Videos of the demo have been added to the videos tab in this repo
     Output json bodies is also added to the repo under outputs/ folder
     ```
 - Docker build and run command for dockerised solutions
     ```
     docker build -t productsearch .
     docker run -d --env-file .env -p 8030:8030  productsearch 
+    ```
+- Curl Command for Iphone 16 Pro, 128 GB
+    ```
+    curl -X 'POST' \   'https://ameybhat-product-search-dpdybvgjhvdhb5d2.centralindia-01.azurewebsites.net/v0/products/product-search-request' \   -H 'accept: application/json' \   -H 'Content-Type: application/json' \   -d '{   "country": "US",   "query": "iPhone 16 Pro, 128gb" }'
+    ```
+- Deployed URL
+    ```
+    https://ameybhat-product-search-dpdybvgjhvdhb5d2.centralindia-01.azurewebsites.net/docs
     ```
