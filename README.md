@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95.2-green)
+![Docker](https://img.shields.io/badge/docker-ready-blue)
+![LangChain](https://img.shields.io/badge/LangChain-integrated-purple)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-informational)
+![Azure](https://img.shields.io/badge/Azure-lightblue)
+![SentenceTransformers](https://img.shields.io/badge/SBERT-Sentence--Transformers-orange)
+
+
 # 🌍 Universal Product Price Comparison Tool
 
 A generic, country-aware product price comparison API built using **FastAPI** and enhanced using **LLMs** for **relevance filtering** and **product validation**.
@@ -59,6 +68,26 @@ https://drive.google.com/file/d/17mtqdo7d0ZH9Ay0iIDjiVL8ogpSBAOcW/view?usp=shari
 - Install All Dependencies
     ```
     poetry install
+    ```
+- ENV file Creation
+    ```
+    # Sentence Transformers
+    SENTENCE_TRANSFORMERS_EMBEDDING_MODEL_NAME=intfloat/e5-large-v2
+    
+    # OpenAI (Azure)
+    OPENAI_API_KEY=your_openai_api_key_here
+    
+    # LangChain
+    LANGCHAIN_MODEL=gpt-4o-mini
+    LANGCHAIN_TEMP=0
+    LANGCHAIN_MAX_TOKENS=512
+    
+    # SERP API
+    SERP_API_KEY=your_serpapi_key
+    SERP_API_ENDPOINT=https://serpapi.com/search.json
+    
+    # API Settings
+    API_TIMEOUT=120
     ```
 - Run the server using uvicorn
     ```
