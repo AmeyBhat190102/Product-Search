@@ -15,6 +15,13 @@ A generic, country-aware product price comparison API built using **FastAPI** an
 
 ---
 
+## 📡 API Overview
+
+| Method | Endpoint                                 | Description                                | Request Body Example                                  |
+|--------|------------------------------------------|--------------------------------------------|--------------------------------------------------------|
+| POST   | `/v0/products/product-search-request`     | Fetches product prices from multiple sites | `{ "country": "US", "query": "iPhone 16 Pro, 128GB" }` |
+
+---
 ## 🧾 Sample Queries
 
 ```json
