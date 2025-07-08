@@ -40,6 +40,10 @@ A generic, country-aware product price comparison API built using **FastAPI** an
 
 ---
 
+<img width="789" alt="Screenshot 2025-07-08 at 9 51 13 PM" src="https://github.com/user-attachments/assets/3d1adbb9-662b-42d7-8a51-0b173ae084d2" />
+
+---
+
 ## Demo Video Links - Includes Different regions based queries
 
 - Demo Video 1
