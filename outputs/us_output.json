@@ -1,0 +1,58 @@
+[
+    {
+      "product_name": "Apple iPhone 16 Pro 128GB 6.3\" Unlocked",
+      "price": 849.99,
+      "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6610366062486173425",
+      "source": "Pawn America",
+      "delivery": "Delivery Info is not Available",
+      "reviews": "No reviews found for this Product",
+      "ratings": "No ratings found for this Product",
+      "similarity": 0.9444503784179688,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'iPhone 16 Pro, 128gb' as it specifies the same model (iPhone 16 Pro) and storage capacity (128GB)."
+      }
+    },
+    {
+      "product_name": "Apple iPhone 16 Pro 128GB Natural T",
+      "price": 999,
+      "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:12787874061801024280",
+      "source": "BrandsMart USA",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.6,
+      "similarity": 0.9420477151870728,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'iPhone 16 Pro, 128gb' as it specifies the exact model (iPhone 16 Pro) and the storage capacity (128GB)."
+      }
+    },
+    {
+      "product_name": "iPhone 16 Pro 128GB Unlocked Black Titanium",
+      "price": 829.99,
+      "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:10416627247358428662",
+      "source": "Gazelle Store",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.6,
+      "similarity": 0.9399187564849854,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product listing matches the user's search query for 'iPhone 16 Pro, 128gb' as it specifies the same model and storage capacity."
+      }
+    },
+    {
+      "product_name": "Apple iPhone 16 Pro 128GB Desert",
+      "price": 11,
+      "link": "https://www.google.com/shopping/product/1?gl=us&prds=pid:6796851206753836966",
+      "source": "Consumer Cellular",
+      "delivery": "Delivery Info is not Available",
+      "reviews": 13000,
+      "ratings": 4.6,
+      "similarity": 0.9353309869766235,
+      "llm_response": {
+        "is_valid_product": true,
+        "reason": "The product matches the user's intent for an 'iPhone 16 Pro' with '128GB' storage, as it is specifically listed as 'Apple iPhone 16 Pro 128GB Desert'."
+      }
+    }
+  ]
